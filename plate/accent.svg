@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="108px" height="13.465px" viewBox="0 0 108 13.465" enable-background="new 0 0 108 13.465" xml:space="preserve">
+<path fill="none" stroke="#000000" stroke-width="0.0283" stroke-miterlimit="10" d="M105.166,5.669c0,1.565-1.27,2.834-2.834,2.834
+	c-1.566,0-2.834-1.269-2.834-2.834s1.268-2.834,2.834-2.834C103.896,2.834,105.166,4.104,105.166,5.669z M5.67,2.834
+	c-1.566,0-2.835,1.269-2.835,2.834S4.104,8.503,5.67,8.503c1.565,0,2.834-1.269,2.834-2.834S7.235,2.834,5.67,2.834z M108,13.465
+	V5.669C108,2.551,105.449,0,102.332,0H5.669C2.551,0,0,2.551,0,5.669v7.795H108z"/>
+</svg>
