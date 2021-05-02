@@ -170,8 +170,8 @@ PCB側面の塗装にはuni ポスカがもっとも適しています。
 
 ### 3.2. メインPCBの取り付け
 
-トッププレートPCBに固定したキースイッチのピンが折れ曲がらないようにPCBのKailhソケットに差し込みます。
-この時点でお使いのPCにUSB Type-Cケーブルで接続して再度動作確認を行っても構いません。
+トッププレートPCBに固定したキースイッチのピンが折れ曲がらないようにメインPCBのKailhソケットに差し込みます。
+このタイミングでお使いのPCにUSB Type-Cケーブルで接続して再度動作確認を行うことをおすすめいたします。
 
 |![](../images/buildguide_03-02-01.png)|![](../images/buildguide_03-02-03.png)|
 |---|---|
@@ -237,21 +237,22 @@ Acperience12はQuantum Mechanical Keyboard Firmware(以下、QMK)に対応して
 
 ---
 
-### 4.1. VIAによるキーマップ書き換え
-
-Acperience12はVIAに対応しています。
-jsonファイルへのリンク
-
-[acperience12.json](https://raw.githubusercontent.com/yynmt/keyboards/Acperience12/src/yynmt/acperience12/acperience12.json)
-
----
-
-### 4.2. Remapによるキーマップ書き換え
+### 4.1. Remapによるキーマップ書き換え
 
 Acperience12はRemapに対応しています。
 ChromeからRemapにアクセスすることでキーマップをChromeブラウザ上で書き換えることができます。
 
-[Remap - https://remap-keys.app/](https://remap-keys.app/)
+- [Remap - https://remap-keys.app/](https://remap-keys.app/)
+
+---
+
+### 4.2. VIAによるキーマップ書き換え
+
+Acperience12はVIAに対応しています。
+またVIAのmasterブランチにjsonファイルがマージされていないため以下のjsonファイルをVIAのアプリケーションに読み込ませてご利用ください。
+
+- [VIA - https://caniusevia.com/](https://caniusevia.com/)
+- [acperience12.json](https://raw.githubusercontent.com/yynmt/keyboards/Acperience12/src/yynmt/acperience12/acperience12.json)
 
 ---
 
