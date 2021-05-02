@@ -284,7 +284,7 @@ SIMピン端面のバリでキーキャップを傷付けないようご注意�
 
 　側面を覆う3Dプリント製のケースをDMM.makeより購入可能です。
 
-[Acperience12 Aspecio Shell - DMM.make クリエイターズマーケット](https://make.dmm.com/item/1290202/)
+- [Acperience12 Aspecio Shell - DMM.make クリエイターズマーケット](https://make.dmm.com/item/1290202/)
 
 　ボトムプレートPCBを一度取り外し、トッププレートPCBとボトムプレートPCBで挟み込むように固定します。
 
